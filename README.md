@@ -247,8 +247,6 @@ email: dfelips@gmail.com,
 
 contact: +91 7397031068,
 
-resume-link: https://drive.google.com/file/d/1MaVNMqnDf9MRkOVaLObQtrTIOzAsupfx/view?usp=sharing
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
