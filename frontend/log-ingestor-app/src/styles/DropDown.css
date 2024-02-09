@@ -1,0 +1,18 @@
+.dropdown-container {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.dropdown-container .css-13cymwt-control {
+  cursor: pointer !important;
+}
+
+.dropdown-container .label {
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.css-1nmdiq5-menu {
+  z-index: 100;
+}

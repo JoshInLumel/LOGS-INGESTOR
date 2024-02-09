@@ -1,0 +1,14 @@
+.search-box-wrapper {
+  display: flex;
+  gap: 10px;
+}
+
+.search-box-container {
+  margin: 0 !important;
+  background: #ffffff !important;
+  border: 1px solid #3742fa;
+}
+
+.search-box-container > div:first-child {
+  margin-bottom: 0 !important;
+}
