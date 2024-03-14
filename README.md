@@ -228,8 +228,6 @@ application implementation screenshots:
 
 - Utilize the filter dropdown and search bar to find specific logs within the table.
 
-demo-video link: https://www.loom.com/share/fd9144919ab9408886b2165258f594dc?sid=7a05c4fd-c6a5-4a2e-8285-cc61f164559e
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
